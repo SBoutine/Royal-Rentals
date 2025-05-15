@@ -69,7 +69,7 @@ The system is organized into several packages and classes:
    ```bash
    java driverPackage.DriverRoyalRentals
 
-   **Enjoy the project on your terminal or open it on your IDE!**
+   Enjoy the project on your terminal or open it on your IDE!
 
 4. **Use an IDE**
 - Open the project folder with IntelliJ IDEA, Eclipse, or VS Code (with Java extensions).
