@@ -50,6 +50,7 @@ The system is organized into several packages and classes:
 ## How to Run
 
 1. **Clone the repo**
+   
    Open a terminal and run:
    ```bash
    git clone https://github.com/SBoutine/Royal-Rentals.git
@@ -60,20 +61,17 @@ The system is organized into several packages and classes:
    java -version
    javac -version
 
-3. **Build and run the project**
-
-   Compile all .java files:
+3. **Compile all .java files:**
    ```bash
    javac clientPackage/*.java driverPackage/*.java vehiclePackage/*.java
 
-   Run the main class (DriverRoyalRentals.java):
+4. **Run the main class (DriverRoyalRentals.java)**
    ```bash
    java driverPackage.DriverRoyalRentals
 
+5. **Enjoy the project on your terminal or open it on your IDE!**
 
-   Enjoy the project on your terminal or open it on your IDE!
-
-5. **Use an IDE**
+6. **Use an IDE**
 - Open the project folder with IntelliJ IDEA, Eclipse, or VS Code (with Java extensions).
 - These IDEs recognize Java projects and handle compiling and running with one click.
 
