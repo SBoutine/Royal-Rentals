@@ -61,6 +61,7 @@ The system is organized into several packages and classes:
    javac -version
 
 3. **Build and run the project**
+
    Compile all .java files:
    ```bash
    javac clientPackage/*.java driverPackage/*.java vehiclePackage/*.java
@@ -69,9 +70,10 @@ The system is organized into several packages and classes:
    ```bash
    java driverPackage.DriverRoyalRentals
 
+
    Enjoy the project on your terminal or open it on your IDE!
 
-4. **Use an IDE**
+5. **Use an IDE**
 - Open the project folder with IntelliJ IDEA, Eclipse, or VS Code (with Java extensions).
 - These IDEs recognize Java projects and handle compiling and running with one click.
 
