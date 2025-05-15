@@ -50,8 +50,10 @@ The system is organized into several packages and classes:
 ## How to Run
 
 1. Compile all Java files:
+   ```bash
       javac driverPackage/DriverRoyalRentals.java
 2. Run the main class:
+   ```bash
       java driverPackage.DriverRoyalRentals
 
 3. Follow the on-screen menu prompts to interact with the system.
